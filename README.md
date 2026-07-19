@@ -1,68 +1,161 @@
 <h1 align="center">Hi, I'm Kunal 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer</b> crafting dark, cinematic web experiences — with a growing focus on Azure-integrated, AI-powered applications.
+  <b>Frontend Developer • Data Analytics & AI Enthusiast</b><br>
+  Building modern web applications, AI-powered solutions, and data-driven dashboards using Python, SQL, Power BI, and Azure AI.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8A5CF6&center=true&vCenter=true&width=500&lines=B.Tech+CSE+%40+Sushant+University;Building+Azure-integrated+web+apps;React+%7C+JavaScript+%7C+Azure+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=8A5CF6&center=true&vCenter=true&width=700&lines=B.Tech+CSE+%40+Sushant+University;Frontend+Developer+%7C+Data+Analytics;Python+%7C+SQL+%7C+Power+BI;Azure+AI+%7C+Machine+Learning;Building+AI-powered+Data+Applications" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kunal-joon-115792311">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:kunaljoon19@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8A5CF6?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/KunalJoon">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
-<br/>
+---
 
-## 🔭 What I'm Building
+# 🚀 About Me
+
+🎓 B.Tech Computer Science Student at **Sushant University**
+
+💻 Passionate about
+- Frontend Development
+- Data Analytics
+- Machine Learning
+- Azure AI
+- Business Intelligence
+
+📈 Currently learning
+- Power BI
+- SQL
+- Machine Learning
+- Azure AI Services
+- Data Visualization
+
+---
+
+# 🔭 What I'm Building
 
 | Project | Description | Stack |
-|---|---|---|
-| 🧠 **PDF Q&A (RAG)** | Ask questions over PDFs using retrieval-augmented generation | Azure AI Search, Azure OpenAI |
-| 👁️ **Scanline** | Real-time face detection web app | Azure AI Vision, JavaScript |
-| 🎙️ **EchoAI** | Voice notes app with speech-to-text & TTS | Azure Speech, JavaScript |
-| 💬 **Coding Assistant Bot** | Chat-based coding helper | Azure OpenAI |
+|----------|-------------|-------|
+| 🧠 PDF Q&A (RAG) | Ask questions over PDFs using Retrieval-Augmented Generation | Azure AI Search, Azure OpenAI |
+| 👁️ Scanline | Real-time Face Detection Web App | Azure AI Vision |
+| 🎙️ EchoAI | Speech-to-Text & Text-to-Speech App | Azure Speech |
+| 💬 Coding Assistant Bot | AI Coding Assistant | Azure OpenAI |
 
-<br/>
+---
 
-## 🛠️ Tech Stack
+# 📊 Data Analytics Projects
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,azure,vscode,git,github" />
+| Project | Description | Technologies |
+|----------|-------------|--------------|
+| 📈 Customer Churn Prediction | Built ML models to predict customer churn and compared multiple classification algorithms. | Python, Pandas, Scikit-learn |
+| 📊 Sales Dashboard | Interactive business dashboard with KPIs, sales trends, and profit analysis. | Power BI, Excel |
+| 🏏 IPL Data Analytics | Exploratory Data Analysis on IPL datasets to identify player and team performance trends. | Python, Pandas, Matplotlib |
+
+---
+
+# 🛠 Tech Stack
+
+### 👨‍💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,mysql" />
 </p>
 
-<br/>
+### 📊 Data Analytics
 
-## 🎨 Design Philosophy
+<p>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+</p>
 
-I build UI with a consistent dark, cinematic language:
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Data Cleaning
+- Exploratory Data Analysis
+- Machine Learning
 
-- 🌌 Dark backgrounds with **violet → cyan** gradients
-- 🪟 Glassmorphic & terminal-inspired components
-- ✍️ Typography: `Space Grotesk` · `Inter` · `JetBrains Mono`
+### ☁️ Cloud & Tools
 
-<br/>
+<p>
+<img src="https://skillicons.dev/icons?i=azure,git,github,vscode" />
+</p>
 
-## 📊 GitHub Stats
+---
+
+# 📚 Certifications
+
+- 🎓 Samatrix Power BI Bootcamp
+- 🎓 Microsoft Azure AI Fundamentals (AI-900)
+- 🎓 Microsoft Azure Fundamentals (AZ-900)
+
+---
+
+# 🌟 Highlights
+
+- 📊 Built interactive Power BI dashboards
+- 🤖 Developed Machine Learning classification models
+- ☁️ Built Azure AI-powered applications
+- 💻 Strong understanding of SQL and Python
+- 📈 Passionate about transforming raw data into meaningful insights
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KunalJoon&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A5CF6&icon_color=06B6D4&text_color=C9D1D9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalJoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A5CF6&text_color=C9D1D9" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=KunalJoon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalJoon&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalJoon&theme=tokyonight&hide_border=true&background=0D1117&ring=8A5CF6&fire=06B6D4&currStreakLabel=C9D1D9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalJoon&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<br/>
+---
 
-## 📫 Let's Connect
+# 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-LINK"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=flat-square&logo=vercel&logoColor=white" /></a>
+
+<a href="https://www.linkedin.com/in/kunal-joon-115792311">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:kunaljoon19@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/KunalJoon">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center"><i>⚡ Currently exploring: Azure AI services + polished frontend design</i></p>
+---
+
+<p align="center">
+
+⭐ <b>Always exploring new technologies in Frontend Development, Data Analytics, Azure AI, and Machine Learning.</b>
+
+</p>
